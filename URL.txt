@@ -1,0 +1,3 @@
+https://github.com/Nico243/Git-Repo
+
+ ProTip! Use the URL for this page when adding GitHub as a remote. 
